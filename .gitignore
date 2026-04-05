@@ -1,0 +1,9 @@
+venv
+.vscode
+.env
+.dart_tool
+.idea
+android
+ios
+web
+windows
