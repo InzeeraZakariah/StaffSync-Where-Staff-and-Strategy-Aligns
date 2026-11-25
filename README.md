@@ -1,4 +1,4 @@
-# StaffSync
+# StaffSync: Where Staff and Strategy Aligns
 
 A mobile app for college staff to coordinate, communicate and track student progress in one place.
 
