@@ -1,5 +1,13 @@
 # StaffSync: Where Staff and Strategy Aligns
 
+<img width="1903" height="902" alt="image" src="https://github.com/user-attachments/assets/ad98f00b-7958-4868-971e-52d174b39e5f" />
+<img width="1912" height="892" alt="image" src="https://github.com/user-attachments/assets/9db7cc15-6518-4203-9a10-062a261bdc8f" />
+<img width="1906" height="911" alt="image" src="https://github.com/user-attachments/assets/f51ce9ee-2c3d-4d16-ae84-87aef326c118" />
+<img width="1892" height="897" alt="image" src="https://github.com/user-attachments/assets/7edfdb92-d78a-4ae1-ba51-8b7e36432b01" />
+<img width="1916" height="903" alt="image" src="https://github.com/user-attachments/assets/3ecf1d0f-adae-403e-9e4d-b2bc3c478256" />
+
+
+
 A mobile app for college staff to coordinate, communicate and track student progress in one place.
 
 Built with **Flutter** (frontend), **FastAPI** (backend) and **PostgreSQL** (database).
