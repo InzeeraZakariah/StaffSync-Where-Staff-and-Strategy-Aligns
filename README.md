@@ -247,6 +247,3 @@ The APK is created at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ---
 
-## License
-
-Add your license here (for example MIT).
